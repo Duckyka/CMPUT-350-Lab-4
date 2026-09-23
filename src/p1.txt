@@ -1,0 +1,10 @@
+Due to using my Windows machine, I have to use a custom preset to locate my compiler paths. I am not sure why but with this I can
+only run the arrays of size 500 maximun, otherwise the terminal doesn't complete (doesn't crash, just stops running) without
+outputting results. However stangely enough p2b runs 256x256x256 just fine. 
+
+Results (500x500 arrays)
+202 -8920773284626626762
+181 -8920773284626626762
+
+I found that column-major was slightly faster most of the time, however my implementation led me to believe they would run
+effectively the same due to the same number of operations and indexing. 

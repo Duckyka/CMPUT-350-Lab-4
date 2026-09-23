@@ -1,0 +1,4 @@
+I was unable to complete p2b past filling the standard and morton arrays. I wanted to note how ridiculous it is to introduce
+such an unknown and complex topic as convulving in a lab (something we are not taught in class
+and was not a prereq for the class). It also wansn't made clear what the kernal
+being initialized was being filled with value-wise (which would be needed if the dot product was used). 
